@@ -1,5 +1,5 @@
 # DegeaAutopilotScripts
-Collection of scripts to retrieve machine hash. Public repo
+Script to retrieve machine hash from OOBE
 
 # How to run this script
 - Requires USB stick
