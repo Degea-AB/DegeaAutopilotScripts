@@ -49,3 +49,5 @@ Run the script by typing the below command. You can hit tab after typing a few l
 </br>
 A CSV file will be created on the USB stick with the serialnumber as name (serialnumber.csv). Make sure the file contains the hash, forward the file to Degea for import.
 </br>
+
+![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/viewhash.png "Sample CSV")
