@@ -12,7 +12,9 @@ Download the files as ZIP, extract the files and place the Get-HashForAutopilotO
 ![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/save%20script.png "Download ZIP from Github")
 
 </br>
-Hit Shift F10 after you have connected the PC to internet in OOBE and run the commands listed below.
+Plug the USB into a freshly installed PC and go through the OOBE setup until you have connected the PC to internet.
+</br>
+Hit Shift F10 and run the commands listed below.
 </br>
 
 </br>
