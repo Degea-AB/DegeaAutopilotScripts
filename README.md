@@ -3,6 +3,11 @@ Script to retrieve machine hash from OOBE
 
 # How to run this script
 - Requires USB stick
+- Freshly installed PC.
+
+</br>
+Hit Shift F10 after you have connected the PC to internet in OOBE and run the commands listed below.
+</br>
 
 </br>
 Run Get-PSDrive to look up all drives.
