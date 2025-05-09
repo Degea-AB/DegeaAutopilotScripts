@@ -6,6 +6,12 @@ Script to retrieve machine hash from OOBE
 - Freshly installed PC.
 
 </br>
+Download the files as ZIP, extract the files and place the Get-HashForAutopilotOOBE.ps1 file on your USB stick.
+</br>
+
+![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/save%20script.png "Download ZIP from Github")
+
+</br>
 Hit Shift F10 after you have connected the PC to internet in OOBE and run the commands listed below.
 </br>
 
