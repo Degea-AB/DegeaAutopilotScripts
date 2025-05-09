@@ -4,6 +4,9 @@ Collection of scripts to retrieve machine hash. Public repo
 # How to run this script
 - Requires USB stick
 
+</br>
+Run Get-PSDrive to look up all drives.
+</br>
 
 ```powershell
 Get-PSDrive
