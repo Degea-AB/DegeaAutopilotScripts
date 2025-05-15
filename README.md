@@ -43,7 +43,11 @@ Run the script by typing the below command. You can hit tab after typing a few l
 ```powershell
 .\Get-HashForAutopilotOOBE.ps1
 ```
+</br> If script execution is blocked, run
 
+```powershell
+Set-ExecutionPolicy Unrestricted
+```
 ![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/runscript.png "run script")
 
 </br>
