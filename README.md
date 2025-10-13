@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DegeaAutopilotScripts
 Script to retrieve machine hash from OOBE
 
@@ -52,6 +51,7 @@ A CSV file will be created on the USB stick with the serialnumber as name (seria
 </br>
 
 ![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/viewhash.png "Sample CSV")
+
 =======
 # DegeaAutopilotScripts
 Script to retrieve machine hash from OOBE
@@ -110,4 +110,4 @@ A CSV file will be created on the USB stick with the serialnumber as name (seria
 </br>
 
 ![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/viewhash.png "Sample CSV")
->>>>>>> 543eca5095162ee19bf5835bb734e62123ddfa88
+
