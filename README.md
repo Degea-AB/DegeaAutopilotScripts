@@ -2,8 +2,8 @@
 Script to retrieve machine hash from OOBE
 
 # How to run this script
-- Requires USB stick
-- Freshly installed PC.
+- Requires USB stick.
+- Freshly installed PC. Can be run from inside Windows, but requires administrator privileges.
 
 </br>
 Download the files as ZIP, extract the files and place the Get-HashForAutopilotOOBE.ps1 file on your USB stick.
@@ -110,4 +110,5 @@ A CSV file will be created on the USB stick with the serialnumber as name (seria
 </br>
 
 ![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/viewhash.png "Sample CSV")
+
 
