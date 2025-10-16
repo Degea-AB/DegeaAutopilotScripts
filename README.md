@@ -18,10 +18,11 @@ Hit Shift F10 and run the commands listed below.
 </br>
 
 </br>
-Run Get-PSDrive to look up all drives.
+Switch to a powershell prompt. Run Get-PSDrive to look up all drives.
 </br>
 
 ```powershell
+powershell
 Get-PSDrive
 ```
 ![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/get-psdrive.png "get-psdrive")
@@ -110,5 +111,6 @@ A CSV file will be created on the USB stick with the serialnumber as name (seria
 </br>
 
 ![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/viewhash.png "Sample CSV")
+
 
 
