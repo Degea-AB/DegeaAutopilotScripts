@@ -18,10 +18,14 @@ Hit Shift F10 and run the commands listed below.
 </br>
 
 </br>
+Run the command powershell to switch to a Powershell terminal
+
 Run Get-PSDrive to look up all drives.
 </br>
 
 ```powershell
+powershell
+
 Get-PSDrive
 ```
 ![alt text](https://github.com/Degea-AB/DegeaAutopilotScripts/blob/main/Images/get-psdrive.png "get-psdrive")
